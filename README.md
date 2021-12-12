@@ -4,6 +4,17 @@ This repo includes some projects using dataset from Kaggle (https://www.kaggle.c
 
 I create this repo to practice related skills and find it more beneficial than I thought.
 
+# Notes
+
+Sometimes, I am frustrated to find that many top codes in Kaggle illustrate little insights on the specific datasets. 
+
+They do everything, such as clearing, visualization, character engineering and prediction, etc.
+
+BUT they seem to do nothing, because little results are interested or meaningful enough to attract my attention.
+
+Thus I dicided to dig deeper into it and record what I have found behind these data.
+
+
 # Keep in mind
 
 "The purpose of visualization is insight, not pictures."
