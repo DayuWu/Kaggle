@@ -1,4 +1,4 @@
-# Kaggle
+# Kaggle: Storytelling With Data
 
 This repo includes some projects using dataset from Kaggle (https://www.kaggle.com/), including codes, data and notes.
 
@@ -13,6 +13,8 @@ They do everything, such as clearing, visualization, feature engineering and pre
 BUT they seem to do nothing, because little results are interesting or meaningful enough to attract my attention.
 
 Thus I decided to dig deeper into it and record what I have found behind these data.
+
+This is a practice of Storytelling With Data.
 
 
 # Keep in mind
